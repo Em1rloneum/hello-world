@@ -1,2 +1,6 @@
 # hello-world
-my first repository
+*My first repository*.
+Im just a regular newbie.
+That's it.
+This is **python** code:
+`print('Hello, world!')`
